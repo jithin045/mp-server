@@ -1,0 +1,32 @@
+JSON-SERVER
+
+-initiate package.JSON
+    npm init -y
+
+-create package-lock.json 
+    npm i 
+
+-install json-server 
+    npm i json-server [node_modules created automatically]    
+
+
+Axios:
+--------
+
+->package with method of XmlHttpRequest
+->handles data transformation itself
+->to install
+   npm i Axios
+
+ -Axios request structure  
+    ->basic get request
+        axios.get("url")
+    ->other requests
+        const req=axios.create({options})
+
+        {options}=>
+           {
+            base_url:"localhost:3000",
+            url:"/allVideos",
+            headers:{"Content-Type"}
+           }    

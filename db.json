@@ -1,0 +1,74 @@
+{
+  "allVideos": [
+    {
+      "caption": "Manjummal Boys Trailer",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=4fvq8jvxXi8XsHhp&autoplay=1",
+      "image": "https://i.ytimg.com/vi/id848Ww1YLo/hqdefault.jpg",
+      "id": 4
+    },
+    {
+      "caption": "Welcome To Hyderabad Song",
+      "url": "https://www.youtube.com/embed/wTZ5wbWCSsg?si=4fvq8jvxXi8XsHhp&autoplay=1",
+      "image": "https://i.ytimg.com/vi/wTZ5wbWCSsg/maxresdefault.jpg",
+      "id": 7
+    },
+    {
+      "caption": "The Goat Life Trailer",
+      "url": "https://www.youtube.com/embed/lqTQj2zGIM4?si=4fvq8jvxXi8XsHhp&autoplay=1",
+      "image": "https://cdn.gulte.com/wp-content/uploads/2023/04/cczDklKBVnkhd.jpg",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "name": "Trailers",
+      "videos": [
+        {
+          "caption": "Manjummal Boys Trailer",
+          "url": "https://www.youtube.com/embed/id848Ww1YLo?si=4fvq8jvxXi8XsHhp&autoplay=1",
+          "image": "https://i.ytimg.com/vi/id848Ww1YLo/hqdefault.jpg",
+          "id": 4
+        },
+        {
+          "caption": "The Goat Life Trailer",
+          "url": "https://www.youtube.com/embed/lqTQj2zGIM4?si=4fvq8jvxXi8XsHhp&autoplay=1",
+          "image": "https://cdn.gulte.com/wp-content/uploads/2023/04/cczDklKBVnkhd.jpg",
+          "id": 8
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "songs",
+      "videos": [
+        {
+          "caption": "Welcome To Hyderabad Song",
+          "url": "https://www.youtube.com/embed/wTZ5wbWCSsg?si=4fvq8jvxXi8XsHhp&autoplay=1",
+          "image": "https://i.ytimg.com/vi/wTZ5wbWCSsg/maxresdefault.jpg",
+          "id": 7
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Manjummal Boys Trailer",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=4fvq8jvxXi8XsHhp&autoplay=1",
+      "datetime": "2024-03-12T13:01:45.521Z",
+      "id": 1
+    },
+    {
+      "caption": "Welcome To Hyderabad Song",
+      "url": "https://www.youtube.com/embed/wTZ5wbWCSsg?si=4fvq8jvxXi8XsHhp&autoplay=1",
+      "datetime": "2024-03-12T13:01:48.371Z",
+      "id": 2
+    },
+    {
+      "caption": "The Goat Life Trailer",
+      "url": "https://www.youtube.com/embed/lqTQj2zGIM4?si=4fvq8jvxXi8XsHhp&autoplay=1",
+      "datetime": "2024-03-12T13:01:51.930Z",
+      "id": 3
+    }
+  ]
+}
